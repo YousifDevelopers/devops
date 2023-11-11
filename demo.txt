@@ -1,1 +1,2 @@
-Hi from folder test_git
+Hi again with other update
+this is 2
